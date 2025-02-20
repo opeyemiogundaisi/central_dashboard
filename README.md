@@ -1,2 +1,1 @@
-# central_dashboard
-Central Dashboard Created in Power BI
+![My Image](https://github.com/opeyemiogundaisi/central_dashboard/blob/main/Central%20Company%20Dashboard.png)
